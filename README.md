@@ -26,7 +26,7 @@ Every notebook is a **controlled experiment**:
 
 ---
 
-## 🧮 Methodology
+##  Methodology
 
 1. **Mathematical Foundation:**  
    Each experiment starts with the theoretical formulation of the objective, forward pass, and gradient derivations.
